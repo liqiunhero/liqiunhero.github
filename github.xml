@@ -1,0 +1,7 @@
+<application>
+  <component name="GithubAccounts">
+    <account name="Liqiun" id="38aa40f8-eb6f-4819-95ce-38db4c9b447f">
+      <server host="github.com" />
+    </account>
+  </component>
+</application>

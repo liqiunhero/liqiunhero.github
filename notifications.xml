@@ -1,0 +1,5 @@
+<application>
+  <component name="NotificationConfiguration">
+    <notification groupId="Python SDK Updater" playSound="true" />
+  </component>
+</application>
